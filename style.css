@@ -22,9 +22,11 @@ h3 {
 }
 
 header {
-	height: 100px;
+	height: 120px;
 	border-bottom: 5px solid #00ffff;
 	background: black;
+	margin-top: -23px;
+	padding-top: 10px;
 }
 
 /*.circle {
