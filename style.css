@@ -4,6 +4,9 @@
 }	
 html {
 	background-color: black;
-	text-color: white;
 	font-family: googleNoto, sans-serif;
+}
+
+h1 {
+	color: white;
 }
