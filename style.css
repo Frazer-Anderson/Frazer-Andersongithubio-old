@@ -29,6 +29,11 @@ header {
 	padding-top: 10px;
 }
 
+.navigation {
+	height: 30px;
+	width: 100%;
+}
+
 /*.circle {
 border-radius: 50%;
 background: yellow;
