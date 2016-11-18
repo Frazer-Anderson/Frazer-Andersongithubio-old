@@ -10,3 +10,13 @@ html {
 h1 {
 	color: white;
 }
+
+h3 {
+	color: #00ffff;
+
+header {
+	text-align : center;
+	height: 50px;
+	border-bottom: 5px;
+	border-bottom-color: #00ffff;
+}
