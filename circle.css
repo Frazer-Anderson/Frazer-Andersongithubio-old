@@ -4,6 +4,7 @@ background: yellow;
 width: 200px;
 height: 200px;
 margin: 2%;
+border: 3px solid black;
 }
 
 div .circle li {
