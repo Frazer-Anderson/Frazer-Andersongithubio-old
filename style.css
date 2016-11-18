@@ -1,6 +1,6 @@
 @font-face {
 	font-family: googleNoto;
-	src: url(fonts/NotoSerif-Regular.ttf, fonts/NotoSerif-Bold.ttf, fonts/NotoSerif-Italic.ttf, fonts/NotoSerif-BoldItalic.ttf);
+	src: url(fonts/NotoSerif-Regular.ttf);
 }	
 html {
 	background-color: black;
