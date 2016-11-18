@@ -33,6 +33,11 @@ header {
 	height: 30px;
 	width: 100%;
 	background: #00ffff;
+	margin-top: -16px;
+}
+
+.navigation ul {
+	display: inline;
 }
 
 /*.circle {
