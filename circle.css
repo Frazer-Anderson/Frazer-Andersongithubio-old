@@ -7,7 +7,8 @@ margin: 2%;
 border: 3px solid black;
 }
 
-div .circle li {
+.circle ul {
+	display: inline;
 }
 
 .circle img {
