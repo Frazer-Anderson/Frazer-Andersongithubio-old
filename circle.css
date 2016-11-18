@@ -5,10 +5,12 @@ width: 200px;
 height: 200px;
 margin: 2%;
 border: 3px solid black;
+padding-start: 0px;
 }
 
 .circle ul {
 	display: inline;
+	padding-start: 0px;
 }
 
 .circle img {
