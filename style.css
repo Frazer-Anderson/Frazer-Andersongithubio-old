@@ -3,7 +3,7 @@
 	src: url(fonts/NotoSansUI-Regular.ttf);
 }	
 html {
-	background-color: black;
+	background-color: white;
 	font-family: googleNoto, sans-serif;
 }
 
@@ -24,6 +24,7 @@ h3 {
 header {
 	height: 100px;
 	border-bottom: 5px solid #00ffff;
+	background: black;
 }
 
 /*.circle {
