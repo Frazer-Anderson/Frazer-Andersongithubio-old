@@ -9,14 +9,15 @@ html {
 
 h1 {
 	color: white;
+	text-align: center;
 }
 
 h3 {
 	color: #00ffff;
+	text-align: center;
+}
 
 header {
-	text-align : center;
 	height: 50px;
-	border-bottom: 5px;
-	border-bottom-color: #00ffff;
+	border-bottom: 5px solid #00ffff;
 }
