@@ -33,17 +33,9 @@ header {
 	height: 30px;
 	width: 100%;
 	background: #00ffff;
-	margin-top: -16px;
 }
 
 .navigation ul {
 	display: inline;
 }
 
-/*.circle {
-border-radius: 50%;
-background: yellow;
-width: 200px;
-height: 200px;
-margin: 10 10 10 10;
-}*/
