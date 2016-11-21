@@ -10,10 +10,6 @@ box-shadow: 0px 0px 7px 1px black;
 display:inline-block;
 }
 
-.circleDisplay ul {
-	display: inline-block;
-}
-
 .circle img {
 	width: 200px;
 	height: 200px;
@@ -26,3 +22,6 @@ display:inline-block;
 	height: 200px;
 	border-radius: 50%;
 }
+
+.circle2 {
+	margin-top: 4%;
