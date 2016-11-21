@@ -10,7 +10,7 @@ box-shadow: 0px 0px 7px 1px black;
 }
 
 .circleDisplay ul {
-	display: inline;
+	display: inline-block;
 }
 
 .circle img {
