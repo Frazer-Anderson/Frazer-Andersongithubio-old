@@ -20,6 +20,7 @@ box-shadow: 0px 0px 7px 1px black;
 }
 
 .button {
+	display: block;
 	width: 200px;
 	height: 200px;
 	border-radius: 50%;
