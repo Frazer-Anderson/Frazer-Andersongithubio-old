@@ -39,6 +39,14 @@ header {
 	display: inline;
 }
 
+.navBtn {
+	text-decoration: none;
+}
+
+.navBtn:hover {
+	text-decoration: bold;
+}
+
 .spacer {
 	margin-left: 5%;
 	padding-top: 5%;
