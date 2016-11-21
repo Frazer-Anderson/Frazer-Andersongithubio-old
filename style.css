@@ -39,11 +39,11 @@ header {
 	display: inline;
 }
 
-.navBtn {
+.navigation ul a {
 	text-decoration: none;
 }
 
-.navBtn:hover {
+.navigation ul a:hover {
 	text-decoration: bold;
 }
 
