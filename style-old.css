@@ -1,0 +1,53 @@
+@font-face {
+	font-family: googleNoto;
+	src: url(fonts/NotoSansUI-Regular.ttf);
+}	
+html {
+	background: white;
+	font-family: googleNoto, sans-serif;
+}
+
+body {
+	margin: 0px;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}
+
+h3 {
+	color: #00ffff;
+	text-align: center;
+}
+
+header {
+	height: 120px;
+	border-bottom: 5px solid #00ffff;
+	background: black;
+	margin-top: -23px;
+	padding-top: 10px;
+}
+
+.navigation {
+	height: 30px;
+	width: 100%;
+	background: #00ffff;
+}
+
+.navigation ul {
+	display: inline;
+}
+
+.navigation ul a {
+	text-decoration: none;
+}
+
+.navigation ul a:hover {
+	text-decoration: bold;
+}
+
+.spacer {
+	margin-left: 5%;
+	padding-top: 5%;
+}
