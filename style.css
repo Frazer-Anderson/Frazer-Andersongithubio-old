@@ -13,8 +13,8 @@ body {
 }
 
 .title{
-	position: fixed;
-	display: inline;
+	position: relative;
+	/*display: inline;*/
 	left: 40px;
 }
 
